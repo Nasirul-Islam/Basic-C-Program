@@ -1,4 +1,4 @@
-// function overloading inside class
+// class and constructor
 #include<iostream>
 using namespace std;
 
